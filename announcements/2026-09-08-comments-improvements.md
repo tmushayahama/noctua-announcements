@@ -1,9 +1,9 @@
 ---
 title: Improvements to comments
-level: success
+level: info
 type: update
 apps: [vpe]
-expires: 2026-10-15
+expires: 2026-08-15
 ---
 
 Comment icons are always visible now, and a dispute opens a GitHub ticket with

@@ -1,7 +1,7 @@
 ---
 title: Select and move groups of activities
-level: danger
-type: update
+level: info
+type: reminder
 apps: [vpe]
 expires: 2026-10-15
 ---

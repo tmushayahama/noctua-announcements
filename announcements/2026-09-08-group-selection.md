@@ -3,7 +3,7 @@ title: Select and move groups of activities
 level: success
 type: update
 apps: [vpe]
-expires: 2026-10-15
+expires: 2026-08-15
 ---
 
 You can now select several activities at once and move, copy, or delete them
